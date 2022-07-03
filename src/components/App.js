@@ -18,7 +18,7 @@ function App() {
       <Header />
       <Note
         key="1"
-        title="Delegation"
+        title="Delegation1"
         description="Q. How many programmers does it take to change a light bulb? A. None – It’s a hardware problem"
       />
       <Footer />
